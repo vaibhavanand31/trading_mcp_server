@@ -74,8 +74,6 @@ Create a `.env` file in the project root directory with the following required v
 ```bash
 # CRITICAL: Required for all operations
 PRIVATE_API_KEY=your_private_api_key_here
-
-# Optional: Trading Platform Credentials
 EXCHANGE_API_KEY=your_exchange_api_key
 EXCHANGE_SECRET_KEY=your_exchange_secret_key
 
